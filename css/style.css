@@ -1,0 +1,173 @@
+body{
+    background-image: url("../voorbeeld/ontwerp.png");
+    background-repeat: no-repeat;
+    margin: 0;
+}
+#page
+{
+position: absolute;
+width: 1349px;
+height: 320px;
+top: 200px;
+}
+
+#logo
+{
+position: absolute;
+width: 1349px;
+height: 192px;
+top: 23px;
+
+}
+
+#menu
+{
+position: absolute;
+width: 1349px;
+height: 72px;
+top: 240px;
+
+}
+
+#HOME{
+  margin-left: 0px;
+  position: absolute;
+  font-size: 15.3px;
+  font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+
+#FEATURES{
+  margin-left: 112px;
+margin-top: 1px;
+position: absolute;
+font-size: 15.4px;
+  font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+
+#PAGES{
+  margin-left: 230px;
+margin-top: 1px;
+position: absolute;
+font-size: 15px;
+      font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+
+#PORTFOLIO{
+  margin-left: 350px;
+      margin-top: 1px;
+      position: absolute;
+      font-size: 15.4px;
+      font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+#BLOG{
+  margin-left: 466px;
+  margin-top: 0px;
+  position: absolute;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+
+#CONTACT{
+  margin-left: 571px;
+      margin-top: 1px;
+      position: absolute;
+      font-size: 15.4px;
+      font-family: 'Roboto', sans-serif;
+color: rgba(255, 255, 255, 0.8);
+}
+
+li{
+font-size: 100px;
+margin-right: 10000px;
+
+}
+li.nav{
+  position:absolute;
+
+  font-size: 30px;
+  display: inline-block;
+}
+
+ul{
+word-spacing: 79.9px;
+  margin-left: 306.5px;
+margin-top: 1px;
+}
+a.home{
+color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: -0px;
+position: absolute;
+text-decoration: none;
+}
+a.features{
+  color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: 0px;
+  position: absolute;
+  text-decoration: none;
+}
+a.pages{
+color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: 0px;
+position: absolute;
+text-decoration: none;
+}
+a.portfolio{
+color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: 0px;
+position: absolute;
+text-decoration: none;
+}
+a.blog{
+color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: 0px;
+position: absolute;
+text-decoration: none;
+}
+a.contact{
+color: rgba(255, 255, 255, 0.8);
+margin-left: 0px;
+margin-top: 0px;
+position: absolute;
+text-decoration: none;
+}
+p#home{
+  margin-left: -9px;
+  margin-top: 11px;
+}
+
+p#features{
+  margin-left: -24px;
+  margin-top: 10px;
+}
+p#pages{
+  margin-left: -10px;
+      margin-top: 10px;
+}
+p#portfolio{
+  margin-left: -29px;
+      margin-top: 10px;
+
+}
+p#blog{
+  margin-left: -6px;
+  margin-top: 11px;
+
+}
+p#contact{
+  margin-left: -20px;
+      margin-top: 10px;
+
+}
+marquee{
+color: white;
+}
